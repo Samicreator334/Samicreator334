@@ -15,8 +15,6 @@
 I am a computer engineering student with a strong passion for data analysis and a goal of becoming an expert data analyst. 
 I enjoy working with data to uncover insights, solve problems, and support data-driven decision-making.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://Samicreator334.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
